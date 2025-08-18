@@ -7,7 +7,7 @@ import sys
 
 # Add the parent directory to the Python path to allow importing from 'core'
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-from core.ragepipeline import ragpipeline
+from core.ragpipeline import ragpipeline
 
 # Define a Pydantic model for the request body to ensure proper data validation
 class SearchRequest(BaseModel):
