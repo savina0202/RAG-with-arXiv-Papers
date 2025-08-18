@@ -7,7 +7,7 @@ Starting to build a private research knowledge base, and planning to be replaced
 
 **Deliverables**
 
-
+<img width="945" height="302" alt="image" src="https://github.com/user-attachments/assets/87f744d7-e374-4b92-8e44-91aed730568e" />
 
 1. **Code Notebook / Script:** Complete code for the RAG pipeline (PDF extraction, chunking, embedding, indexing, retrieval).
    core/ragpipeline.py
