@@ -1,0 +1,102 @@
+[
+    {
+        "paper_title": "Searching for Privacy Risks in LLM Agents via Simulation",
+        "filename": "papers/paper_1.pdf",
+        "summary": "The widespread deployment of LLM-based agents is likely to introduce a\ncritical privacy threat: malicious agents that proactively engage others in\nmulti-turn interactions to extract sensitive informat"
+    },
+    {
+        "paper_title": "A Survey on Diffusion Language Models",
+        "filename": "papers/paper_2.pdf",
+        "summary": "Diffusion Language Models (DLMs) are rapidly emerging as a powerful and\npromising alternative to the dominant autoregressive (AR) paradigm. By\ngenerating tokens in parallel through an iterative denois"
+    },
+    {
+        "paper_title": "SSRL: Self-Search Reinforcement Learning",
+        "filename": "papers/paper_3.pdf",
+        "summary": "We investigate the potential of large language models (LLMs) to serve as\nefficient simulators for agentic search tasks in reinforcement learning (RL),\nthereby reducing dependence on costly interaction"
+    },
+    {
+        "paper_title": "From Black Box to Transparency: Enhancing Automated Interpreting Assessment with Explainable AI in College Classrooms",
+        "filename": "papers/paper_4.pdf",
+        "summary": "Recent advancements in machine learning have spurred growing interests in\nautomated interpreting quality assessment. Nevertheless, existing research\nsuffers from insufficient examination of language u"
+    },
+    {
+        "paper_title": "Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning",
+        "filename": "papers/paper_5.pdf",
+        "summary": "Amidst a shortage of qualified mental health professionals, the integration\nof large language models (LLMs) into psychological applications offers a\npromising way to alleviate the growing burden of me"
+    },
+    {
+        "paper_title": "Reinforced Language Models for Sequential Decision Making",
+        "filename": "papers/paper_6.pdf",
+        "summary": "Large Language Models (LLMs) show potential as sequential decision-making\nagents, but their application is often limited due to a reliance on large,\ncomputationally expensive models. This creates a ne"
+    },
+    {
+        "paper_title": "Memory-Augmented Transformers: A Systematic Review from Neuroscience Principles to Technical Solutions",
+        "filename": "papers/paper_7.pdf",
+        "summary": "Memory is fundamental to intelligence, enabling learning, reasoning, and\nadaptability across biological and artificial systems. While Transformer\narchitectures excel at sequence modeling, they face cr"
+    },
+    {
+        "paper_title": "Beyond \"Not Novel Enough\": Enriching Scholarly Critique with LLM-Assisted Feedback",
+        "filename": "papers/paper_8.pdf",
+        "summary": "Novelty assessment is a central yet understudied aspect of peer review,\nparticularly in high volume fields like NLP where reviewer capacity is\nincreasingly strained. We present a structured approach f"
+    },
+    {
+        "paper_title": "Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models",
+        "filename": "papers/paper_9.pdf",
+        "summary": "Reinforcement learning with verifiable rewards (RLVR), which typically adopts\nPass@1 as the reward, has faced the issues in balancing exploration and\nexploitation, causing policies to prefer conservat"
+    },
+    {
+        "paper_title": "Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs",
+        "filename": "papers/paper_10.pdf",
+        "summary": "Despite large language models (LLMs) have achieved remarkable success, their\nprefix-only prompting paradigm and sequential generation process offer limited\nflexibility for bidirectional information. D"
+    },
+    {
+        "paper_title": "Learning from Natural Language Feedback for Personalized Question Answering",
+        "filename": "papers/paper_11.pdf",
+        "summary": "Personalization is crucial for enhancing both the effectiveness and user\nsatisfaction of language technologies, particularly in information-seeking\ntasks like question answering. Current approaches fo"
+    },
+    {
+        "paper_title": "Continuous Bangla Sign Language Translation: Mitigating the Expense of Gloss Annotation with the Assistance of Graph",
+        "filename": "papers/paper_12.pdf",
+        "summary": "Millions of individuals worldwide are affected by deafness and hearing\nimpairment. Sign language serves as a sophisticated means of communication for\nthe deaf and hard of hearing. However, in societie"
+    },
+    {
+        "paper_title": "Neural Machine Translation for Coptic-French: Strategies for Low-Resource Ancient Languages",
+        "filename": "papers/paper_13.pdf",
+        "summary": "This paper presents the first systematic study of strategies for translating\nCoptic into French. Our comprehensive pipeline systematically evaluates: pivot\nversus direct translation, the impact of pre"
+    },
+    {
+        "paper_title": "eDIF: A European Deep Inference Fabric for Remote Interpretability of LLM",
+        "filename": "papers/paper_14.pdf",
+        "summary": "This paper presents a feasibility study on the deployment of a European Deep\nInference Fabric (eDIF), an NDIF-compatible infrastructure designed to support\nmechanistic interpretability research on lar"
+    },
+    {
+        "paper_title": "When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models",
+        "filename": "papers/paper_15.pdf",
+        "summary": "Multimodal Large Language Models (MLLMs) have demonstrated remarkable\ncapabilities across a diverse range of multimodal tasks. However, these models\nsuffer from a core problem known as text dominance:"
+    },
+    {
+        "paper_title": "Stabilizing Long-term Multi-turn Reinforcement Learning with Gated Rewards",
+        "filename": "papers/paper_16.pdf",
+        "summary": "Reward sparsity in long-horizon reinforcement learning (RL) tasks remains a\nsignificant challenge, while existing outcome-based reward shaping struggles to\ndefine meaningful immediate rewards without "
+    },
+    {
+        "paper_title": "Improving Value-based Process Verifier via Low-Cost Variance Reduction",
+        "filename": "papers/paper_17.pdf",
+        "summary": "Large language models (LLMs) have achieved remarkable success in a wide range\nof tasks. However, their reasoning capabilities, particularly in complex\ndomains like mathematics, remain a significant ch"
+    },
+    {
+        "paper_title": "Diversity First, Quality Later: A Two-Stage Assumption for Language Model Alignment",
+        "filename": "papers/paper_18.pdf",
+        "summary": "The alignment of language models (LMs) with human preferences is critical for\nbuilding reliable AI systems. The problem is typically framed as optimizing an\nLM policy to maximize the expected reward t"
+    },
+    {
+        "paper_title": "Reverse Physician-AI Relationship: Full-process Clinical Diagnosis Driven by a Large Language Model",
+        "filename": "papers/paper_19.pdf",
+        "summary": "Full-process clinical diagnosis in the real world encompasses the entire\ndiagnostic workflow that begins with only an ambiguous chief complaint. While\nartificial intelligence (AI), particularly large "
+    },
+    {
+        "paper_title": "When Explainability Meets Privacy: An Investigation at the Intersection of Post-hoc Explainability and Differential Privacy in the Context of Natural Language Processing",
+        "filename": "papers/paper_20.pdf",
+        "summary": "In the study of trustworthy Natural Language Processing (NLP), a number of\nimportant research fields have emerged, including that of\n\\textit{explainability} and \\textit{privacy}. While research intere"
+    }
+]

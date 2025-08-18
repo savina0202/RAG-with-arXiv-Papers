@@ -1,0 +1,10 @@
+arxiv>=2.2.0
+sentence_transformers>=5.1.0
+pymupdf>=1.26.3
+faiss-cpu>=1.12.0
+numpy>=2.3.2
+tqdm>=4.67.1
+
+fastapi>=0.116.1
+uvicorn[standard]>=0.35.0
+Pydantic>=2.11.7
