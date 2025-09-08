@@ -1,0 +1,452 @@
+[
+    {
+        "doc_id": "2509.04442v1",
+        "paper_title": "Delta Activations: A Representation for Finetuned Large Language Models",
+        "filename": "2509.04442v1.pdf",
+        "summary": "The success of powerful open source Large Language Models (LLMs) has enabled\nthe community to create a vast collection of post-trained models adapted to\nspecific tasks and domains. However, navigating",
+        "url": "http://arxiv.org/pdf/2509.04442v1",
+        "authors": "Zhiqiu Xu, Amish Sethi, Mayur Naik, Ser-Nam Lim",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04439v1",
+        "paper_title": "ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory",
+        "filename": "2509.04439v1.pdf",
+        "summary": "While inference-time scaling enables LLMs to carry out increasingly long and\ncapable reasoning traces, the patterns and insights uncovered during these\ntraces are immediately discarded once the contex",
+        "url": "http://arxiv.org/pdf/2509.04439v1",
+        "authors": "Matthew Ho, Chen Si, Zhaoxiang Feng, Fangxu Yu, Zhijian Liu, Zhiting Hu, Lianhui Qin",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04438v1",
+        "paper_title": "The Telephone Game: Evaluating Semantic Drift in Unified Models",
+        "filename": "2509.04438v1.pdf",
+        "summary": "Employing a single, unified model (UM) for both visual understanding\n(image-to-text: I2T) and and visual generation (text-to-image: T2I) has opened\na new direction in Visual Language Model (VLM) resea",
+        "url": "http://arxiv.org/pdf/2509.04438v1",
+        "authors": "Sabbir Mollah, Rohit Gupta, Sirnam Swetha, Qingyang Liu, Ahnaf Munir, Mubarak Shah",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04432v1",
+        "paper_title": "Can Language Models Handle a Non-Gregorian Calendar?",
+        "filename": "2509.04432v1.pdf",
+        "summary": "Temporal reasoning and knowledge are essential capabilities for language\nmodels (LMs). While much prior work has analyzed and improved temporal\nreasoning in LMs, most studies have focused solely on th",
+        "url": "http://arxiv.org/pdf/2509.04432v1",
+        "authors": "Mutsumi Sasaki, Go Kamoda, Ryosuke Takahashi, Kosuke Sato, Kentaro Inui, Keisuke Sakaguchi, Benjamin Heinzerling",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04419v1",
+        "paper_title": "Towards a Unified View of Large Language Model Post-Training",
+        "filename": "2509.04419v1.pdf",
+        "summary": "Two major sources of training data exist for post-training modern language\nmodels: online (model-generated rollouts) data, and offline (human or\nother-model demonstrations) data. These two types of da",
+        "url": "http://arxiv.org/pdf/2509.04419v1",
+        "authors": "Xingtai Lv, Yuxin Zuo, Youbang Sun, Hongyi Liu, Yuntian Wei, Zhekai Chen, Lixuan He, Xuekai Zhu, Kaiyan Zhang, Bingning Wang, Ning Ding, Bowen Zhou",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04404v1",
+        "paper_title": "No Thoughts Just AI: Biased LLM Recommendations Limit Human Agency in Resume Screening",
+        "filename": "2509.04404v1.pdf",
+        "summary": "In this study, we conduct a resume-screening experiment (N=528) where people\ncollaborate with simulated AI models exhibiting race-based preferences (bias)\nto evaluate candidates for 16 high and low st",
+        "url": "http://arxiv.org/pdf/2509.04404v1",
+        "authors": "Kyra Wilson, Mattea Sim, Anna-Maria Gueorguieva, Aylin Caliskan",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04403v1",
+        "paper_title": "Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenarios",
+        "filename": "2509.04403v1.pdf",
+        "summary": "Multimodal large language models (MLLMs) are rapidly evolving, presenting\nincreasingly complex safety challenges. However, current dataset construction\nmethods, which are risk-oriented, fail to cover ",
+        "url": "http://arxiv.org/pdf/2509.04403v1",
+        "authors": "Jingen Qu, Lijun Li, Bo Zhang, Yichen Yan, Jing Shao",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04393v1",
+        "paper_title": "Contextualized Token Discrimination for Speech Search Query Correction",
+        "filename": "2509.04393v1.pdf",
+        "summary": "Query spelling correction is an important function of modern search engines\nsince it effectively helps users express their intentions clearly. With the\ngrowing popularity of speech search driven by Au",
+        "url": "http://arxiv.org/pdf/2509.04393v1",
+        "authors": "Junyu Lu, Di Jiang, Mengze Hong, Victor Junqiu Wei, Qintian Guo, Zhiyang Su",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04373v1",
+        "paper_title": "Measuring Bias or Measuring the Task: Understanding the Brittle Nature of LLM Gender Biases",
+        "filename": "2509.04373v1.pdf",
+        "summary": "As LLMs are increasingly applied in socially impactful settings, concerns\nabout gender bias have prompted growing efforts both to measure and mitigate\nsuch bias. These efforts often rely on evaluation",
+        "url": "http://arxiv.org/pdf/2509.04373v1",
+        "authors": "Bufan Gao, Elisa Kreiss",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04357v1",
+        "paper_title": "PARCO: Phoneme-Augmented Robust Contextual ASR via Contrastive Entity Disambiguation",
+        "filename": "2509.04357v1.pdf",
+        "summary": "Automatic speech recognition (ASR) systems struggle with domain-specific\nnamed entities, especially homophones. Contextual ASR improves recognition but\noften fails to capture fine-grained phoneme vari",
+        "url": "http://arxiv.org/pdf/2509.04357v1",
+        "authors": "Jiajun He, Naoki Sawada, Koichi Miyazaki, Tomoki Toda",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04343v1",
+        "paper_title": "Psychologically Enhanced AI Agents",
+        "filename": "2509.04343v1.pdf",
+        "summary": "We introduce MBTI-in-Thoughts, a framework for enhancing the effectiveness of\nLarge Language Model (LLM) agents through psychologically grounded personality\nconditioning. Drawing on the Myers-Briggs T",
+        "url": "http://arxiv.org/pdf/2509.04343v1",
+        "authors": "Maciej Besta, Shriram Chandran, Robert Gerstenberger, Mathis Lindner, Marcin Chrapek, Sebastian Hermann Martschat, Taraneh Ghandi, Patrick Iff, Hubert Niewiadomski, Piotr Nyczyk, Jürgen Müller, Torsten Hoefler",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04304v1",
+        "paper_title": "Facts Fade Fast: Evaluating Memorization of Outdated Medical Knowledge in Large Language Models",
+        "filename": "2509.04304v1.pdf",
+        "summary": "The growing capabilities of Large Language Models (LLMs) show significant\npotential to enhance healthcare by assisting medical researchers and\nphysicians. However, their reliance on static training da",
+        "url": "http://arxiv.org/pdf/2509.04304v1",
+        "authors": "Juraj Vladika, Mahdi Dhaini, Florian Matthes",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04292v1",
+        "paper_title": "Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow Real Instructions?",
+        "filename": "2509.04292v1.pdf",
+        "summary": "Large Language Models (LLMs) achieve strong performance on diverse tasks but\noften exhibit cognitive inertia, struggling to follow instructions that\nconflict with the standardized patterns learned dur",
+        "url": "http://arxiv.org/pdf/2509.04292v1",
+        "authors": "Qinyan Zhang, Xinping Lei, Ruijie Miao, Yu Fu, Haojie Fan, Le Chang, Jiafan Hou, Dingling Zhang, Zhongfei Hou, Ziqiang Yang, Changxin Pu, Fei Hu, Jingkai Liu, Mengyun Liu, Yang Liu, Xiang Gao, Jiaheng Liu, Tong Yang, Zaiyuan Wang, Ge Zhang, Wenhao Huang",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04202v1",
+        "paper_title": "Explicit and Implicit Data Augmentation for Social Event Detection",
+        "filename": "2509.04202v1.pdf",
+        "summary": "Social event detection involves identifying and categorizing important events\nfrom social media, which relies on labeled data, but annotation is costly and\nlabor-intensive. To address this problem, we",
+        "url": "http://arxiv.org/pdf/2509.04202v1",
+        "authors": "Congbo Ma, Yuxia Wang, Jia Wu, Jian Yang, Jing Du, Zitai Qiu, Qing Li, Hu Wang, Preslav Nakov",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04183v1",
+        "paper_title": "MAGneT: Coordinated Multi-Agent Generation of Synthetic Multi-Turn Mental Health Counseling Sessions",
+        "filename": "2509.04183v1.pdf",
+        "summary": "The growing demand for scalable psychological counseling highlights the need\nfor fine-tuning open-source Large Language Models (LLMs) with high-quality,\nprivacy-compliant data, yet such data remains s",
+        "url": "http://arxiv.org/pdf/2509.04183v1",
+        "authors": "Aishik Mandal, Tanmoy Chakraborty, Iryna Gurevych",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04182v1",
+        "paper_title": "Joint Modeling of Entities and Discourse Relations for Coherence Assessment",
+        "filename": "2509.04182v1.pdf",
+        "summary": "In linguistics, coherence can be achieved by different means, such as by\nmaintaining reference to the same set of entities across sentences and by\nestablishing discourse relations between them. Howeve",
+        "url": "http://arxiv.org/pdf/2509.04182v1",
+        "authors": "Wei Liu, Michael Strube",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04166v1",
+        "paper_title": "Crossing the Species Divide: Transfer Learning from Speech to Animal Sounds",
+        "filename": "2509.04166v1.pdf",
+        "summary": "Self-supervised speech models have demonstrated impressive performance in\nspeech processing, but their effectiveness on non-speech data remains\nunderexplored. We study the transfer learning capabiliti",
+        "url": "http://arxiv.org/pdf/2509.04166v1",
+        "authors": "Jules Cauzinille, Marius Miron, Olivier Pietquin, Masato Hagiwara, Ricard Marxer, Arnaud Rey, Benoit Favre",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04159v1",
+        "paper_title": "Towards an Action-Centric Ontology for Cooking Procedures Using Temporal Graphs",
+        "filename": "2509.04159v1.pdf",
+        "summary": "Formalizing cooking procedures remains a challenging task due to their\ninherent complexity and ambiguity. We introduce an extensible domain-specific\nlanguage for representing recipes as directed actio",
+        "url": "http://arxiv.org/pdf/2509.04159v1",
+        "authors": "Aarush Kumbhakern, Saransh Kumar Gupta, Lipika Dey, Partha Pratim Das",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04111v1",
+        "paper_title": "MultiWikiQA: A Reading Comprehension Benchmark in 300+ Languages",
+        "filename": "2509.04111v1.pdf",
+        "summary": "We introduce a new reading comprehension dataset, dubbed MultiWikiQA, which\ncovers 306 languages. The context data comes from Wikipedia articles, with\nquestions generated by an LLM and the answers app",
+        "url": "http://arxiv.org/pdf/2509.04111v1",
+        "authors": "Dan Saattrup Smart",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04104v1",
+        "paper_title": "Towards Stable and Personalised Profiles for Lexical Alignment in Spoken Human-Agent Dialogue",
+        "filename": "2509.04104v1.pdf",
+        "summary": "Lexical alignment, where speakers start to use similar words across\nconversation, is known to contribute to successful communication. However, its\nimplementation in conversational agents remains under",
+        "url": "http://arxiv.org/pdf/2509.04104v1",
+        "authors": "Keara Schaaij, Roel Boumans, Tibor Bosse, Iris Hendrickx",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04077v1",
+        "paper_title": "Improving Narrative Classification and Explanation via Fine Tuned Language Models",
+        "filename": "2509.04077v1.pdf",
+        "summary": "Understanding covert narratives and implicit messaging is essential for\nanalyzing bias and sentiment. Traditional NLP methods struggle with detecting\nsubtle phrasing and hidden agendas. This study tac",
+        "url": "http://arxiv.org/pdf/2509.04077v1",
+        "authors": "Rishit Tyagi, Rahul Bouri, Mohit Gupta",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04072v1",
+        "paper_title": "LibriQuote: A Speech Dataset of Fictional Character Utterances for Expressive Zero-Shot Speech Synthesis",
+        "filename": "2509.04072v1.pdf",
+        "summary": "Text-to-speech (TTS) systems have recently achieved more expressive and\nnatural speech synthesis by scaling to large speech datasets. However, the\nproportion of expressive speech in such large-scale c",
+        "url": "http://arxiv.org/pdf/2509.04072v1",
+        "authors": "Gaspard Michel, Elena V. Epure, Christophe Cerisara",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04066v1",
+        "paper_title": "Arabic Chatbot Technologies in Education: An Overview",
+        "filename": "2509.04066v1.pdf",
+        "summary": "The recent advancements in Artificial Intelligence (AI) in general, and in\nNatural Language Processing (NLP) in particular, and some of its applications\nsuch as chatbots, have led to their implementat",
+        "url": "http://arxiv.org/pdf/2509.04066v1",
+        "authors": "Hicham Bourhil, Yacine El Younoussi",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04059v1",
+        "paper_title": "Synthesizing Sheet Music Problems for Evaluation and Reinforcement Learning",
+        "filename": "2509.04059v1.pdf",
+        "summary": "Enhancing the ability of Large Language Models (LLMs) and Multimodal Large\nLanguage Models (MLLMs) to interpret sheet music is a crucial step toward\nbuilding AI musicians. However, current research la",
+        "url": "http://arxiv.org/pdf/2509.04059v1",
+        "authors": "Zhilin Wang, Zhe Yang, Yun Luo, Yafu Li, Haoran Zhang, Runzhe Zhan, Derek F. Wong, Jizhe Zhou, Yu Cheng",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04046v1",
+        "paper_title": "A RoBERTa-Based Functional Syntax Annotation Model for Chinese Texts",
+        "filename": "2509.04046v1.pdf",
+        "summary": "Systemic Functional Grammar and its branch, Cardiff Grammar, have been widely\napplied to discourse analysis, semantic function research, and other tasks\nacross various languages and texts. However, an",
+        "url": "http://arxiv.org/pdf/2509.04046v1",
+        "authors": "Han Xiaohui, Zhang Yunlong, Guo Yuxi",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04032v1",
+        "paper_title": "What if I ask in \\textit{alia lingua}? Measuring Functional Similarity Across Languages",
+        "filename": "2509.04032v1.pdf",
+        "summary": "How similar are model outputs across languages? In this work, we study this\nquestion using a recently proposed model similarity metric $\\kappa_p$ applied\nto 20 languages and 47 subjects in GlobalMMLU.",
+        "url": "http://arxiv.org/pdf/2509.04032v1",
+        "authors": "Debangan Mishra, Arihant Rastogi, Agyeya Negi, Shashwat Goel, Ponnurangam Kumaraguru",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04027v1",
+        "paper_title": "CoT-Space: A Theoretical Framework for Internal Slow-Thinking via Reinforcement Learning",
+        "filename": "2509.04027v1.pdf",
+        "summary": "Reinforcement Learning (RL) has become a pivotal approach for enhancing the\nreasoning capabilities of Large Language Models (LLMs). However, a significant\ntheoretical gap persists, as traditional toke",
+        "url": "http://arxiv.org/pdf/2509.04027v1",
+        "authors": "Zeyu Gan, Hao Yi, Yong Liu",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04013v1",
+        "paper_title": "On Robustness and Reliability of Benchmark-Based Evaluation of LLMs",
+        "filename": "2509.04013v1.pdf",
+        "summary": "Large Language Models (LLMs) effectiveness is usually evaluated by means of\nbenchmarks such as MMLU, ARC-C, or HellaSwag, where questions are presented in\ntheir original wording, thus in a fixed, stan",
+        "url": "http://arxiv.org/pdf/2509.04013v1",
+        "authors": "Riccardo Lunardi, Vincenzo Della Mea, Stefano Mizzaro, Kevin Roitero",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.04011v1",
+        "paper_title": "NER Retriever: Zero-Shot Named Entity Retrieval with Type-Aware Embeddings",
+        "filename": "2509.04011v1.pdf",
+        "summary": "We present NER Retriever, a zero-shot retrieval framework for ad-hoc Named\nEntity Retrieval, a variant of Named Entity Recognition (NER), where the types\nof interest are not provided in advance, and a",
+        "url": "http://arxiv.org/pdf/2509.04011v1",
+        "authors": "Or Shachar, Uri Katz, Yoav Goldberg, Oren Glickman",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03995v1",
+        "paper_title": "RTQA : Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models",
+        "filename": "2509.03995v1.pdf",
+        "summary": "Current temporal knowledge graph question answering (TKGQA) methods primarily\nfocus on implicit temporal constraints, lacking the capability of handling more\ncomplex temporal queries, and struggle wit",
+        "url": "http://arxiv.org/pdf/2509.03995v1",
+        "authors": "Zhaoyan Gong, Juan Li, Zhiqiang Liu, Lei Liang, Huajun Chen, Wen Zhang",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03986v1",
+        "paper_title": "Promptception: How Sensitive Are Large Multimodal Models to Prompts?",
+        "filename": "2509.03986v1.pdf",
+        "summary": "Despite the success of Large Multimodal Models (LMMs) in recent years, prompt\ndesign for LMMs in Multiple-Choice Question Answering (MCQA) remains poorly\nunderstood. We show that even minor variations",
+        "url": "http://arxiv.org/pdf/2509.03986v1",
+        "authors": "Mohamed Insaf Ismithdeen, Muhammad Uzair Khattak, Salman Khan",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03972v1",
+        "paper_title": "Expanding Foundational Language Capabilities in Open-Source LLMs through a Korean Case Study",
+        "filename": "2509.03972v1.pdf",
+        "summary": "We introduce Llama-3-Motif, a language model consisting of 102 billion\nparameters, specifically designed to enhance Korean capabilities while\nretaining strong performance in English. Developed on the ",
+        "url": "http://arxiv.org/pdf/2509.03972v1",
+        "authors": "Junghwan Lim, Gangwon Jo, Sungmin Lee, Jiyoung Park, Dongseok Kim, Jihwan Kim, Junhyeok Lee, Wai Ting Cheung, Dahye Choi, Kibong Choi, Jaeyeon Huh, Beomgyu Kim, Jangwoong Kim, Taehyun Kim, Haesol Lee, Jeesoo Lee, Dongpin Oh, Changseok Song, Daewon Suh",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03962v1",
+        "paper_title": "Exploring NLP Benchmarks in an Extremely Low-Resource Setting",
+        "filename": "2509.03962v1.pdf",
+        "summary": "The effectiveness of Large Language Models (LLMs) diminishes for extremely\nlow-resource languages, such as indigenous languages, primarily due to the lack\nof labeled data. Despite growing interest, th",
+        "url": "http://arxiv.org/pdf/2509.03962v1",
+        "authors": "Ulin Nuha, Adam Jatowt",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03957v1",
+        "paper_title": "CANDY: Benchmarking LLMs' Limitations and Assistive Potential in Chinese Misinformation Fact-Checking",
+        "filename": "2509.03957v1.pdf",
+        "summary": "The effectiveness of large language models (LLMs) to fact-check\nmisinformation remains uncertain, despite their growing use. To this end, we\npresent CANDY, a benchmark designed to systematically evalu",
+        "url": "http://arxiv.org/pdf/2509.03957v1",
+        "authors": "Ruiling Guo, Xinwei Yang, Chen Huang, Tong Zhang, Yong Hu",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03940v1",
+        "paper_title": "VoxRole: A Comprehensive Benchmark for Evaluating Speech-Based Role-Playing Agents",
+        "filename": "2509.03940v1.pdf",
+        "summary": "Recent significant advancements in Large Language Models (LLMs) have greatly\npropelled the development of Role-Playing Conversational Agents (RPCAs). These\nsystems aim to create immersive user experie",
+        "url": "http://arxiv.org/pdf/2509.03940v1",
+        "authors": "Weihao Wu, Liang Cao, Xinyu Wu, Zhiwei Lin, Rui Niu, Jingbei Li, Zhiyong Wu",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03937v1",
+        "paper_title": "SPFT-SQL: Enhancing Large Language Model for Text-to-SQL Parsing by Self-Play Fine-Tuning",
+        "filename": "2509.03937v1.pdf",
+        "summary": "Despite the significant advancements of self-play fine-tuning (SPIN), which\ncan transform a weak large language model (LLM) into a strong one through\ncompetitive interactions between models of varying",
+        "url": "http://arxiv.org/pdf/2509.03937v1",
+        "authors": "Yuhao Zhang, Shaoming Duan, Jinhang Su, Chuanyi Liu, Peiyi Han",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03934v1",
+        "paper_title": "SelfAug: Mitigating Catastrophic Forgetting in Retrieval-Augmented Generation via Distribution Self-Alignment",
+        "filename": "2509.03934v1.pdf",
+        "summary": "Recent advancements in large language models (LLMs) have revolutionized\nnatural language processing through their remarkable capabilities in\nunderstanding and executing diverse tasks. While supervised",
+        "url": "http://arxiv.org/pdf/2509.03934v1",
+        "authors": "Yuqing Huang, Rongyang Zhang, Qimeng Wang, Chengqiang Lu, Yan Gao, Yi Wu, Yao Hu, Xuyang Zhi, Guiquan Liu, Xin Li, Hao Wang, Enhong Chen",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03932v1",
+        "paper_title": "Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling",
+        "filename": "2509.03932v1.pdf",
+        "summary": "This study introduces KPoEM (Korean Poetry Emotion Mapping) , a novel dataset\nfor computational emotion analysis in modern Korean poetry. Despite remarkable\nprogress in text-based emotion classificati",
+        "url": "http://arxiv.org/pdf/2509.03932v1",
+        "authors": "Iro Lim, Haein Ji, Byungjun Kim",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03918v1",
+        "paper_title": "MTQA:Matrix of Thought for Enhanced Reasoning in Complex Question Answering",
+        "filename": "2509.03918v1.pdf",
+        "summary": "Complex Question Answering (QA) is a fundamental and challenging task in NLP.\nWhile large language models (LLMs) exhibit impressive performance in QA, they\nsuffer from significant performance degradat",
+        "url": "http://arxiv.org/pdf/2509.03918v1",
+        "authors": "Fengxiao Tang, Yufeng Li, Zongzong Wu, Ming Zhao",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03897v1",
+        "paper_title": "SPECS: Specificity-Enhanced CLIP-Score for Long Image Caption Evaluation",
+        "filename": "2509.03897v1.pdf",
+        "summary": "As interest grows in generating long, detailed image captions, standard\nevaluation metrics become increasingly unreliable. N-gram-based metrics though\nefficient, fail to capture semantic correctness. ",
+        "url": "http://arxiv.org/pdf/2509.03897v1",
+        "authors": "Xiaofu Chen, Israfel Salazar, Yova Kementchedjhieva",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03891v1",
+        "paper_title": "MobileRAG: Enhancing Mobile Agent with Retrieval-Augmented Generation",
+        "filename": "2509.03891v1.pdf",
+        "summary": "Smartphones have become indispensable in people's daily lives, permeating\nnearly every aspect of modern society. With the continuous advancement of large\nlanguage models (LLMs), numerous LLM-based mob",
+        "url": "http://arxiv.org/pdf/2509.03891v1",
+        "authors": "Gowen Loo, Chang Liu, Qinghong Yin, Xiang Chen, Jiawei Chen, Jingyuan Zhang, Yu Tian",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03888v1",
+        "paper_title": "False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize",
+        "filename": "2509.03888v1.pdf",
+        "summary": "Large Language Models (LLMs) can comply with harmful instructions, raising\nserious safety concerns despite their impressive capabilities. Recent work has\nleveraged probing-based approaches to study th",
+        "url": "http://arxiv.org/pdf/2509.03888v1",
+        "authors": "Cheng Wang, Zeming Wei, Qin Liu, Muhao Chen",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03871v1",
+        "paper_title": "A Comprehensive Survey on Trustworthiness in Reasoning with Large Language Models",
+        "filename": "2509.03871v1.pdf",
+        "summary": "The development of Long-CoT reasoning has advanced LLM performance across\nvarious tasks, including language understanding, complex problem solving, and\ncode generation. This paradigm enables models to",
+        "url": "http://arxiv.org/pdf/2509.03871v1",
+        "authors": "Yanbo Wang, Yongcan Yu, Jian Liang, Ran He",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03867v1",
+        "paper_title": "Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth",
+        "filename": "2509.03867v1.pdf",
+        "summary": "We introduce Drivelology, a unique linguistic phenomenon characterised as\n\"nonsense with depth\", utterances that are syntactically coherent yet\npragmatically paradoxical, emotionally loaded, or rhetor",
+        "url": "http://arxiv.org/pdf/2509.03867v1",
+        "authors": "Yang Wang, Chenghao Xiao, Chia-Yi Hsiao, Zi Yan Chang, Chi-Li Chen, Tyler Loakman, Chenghua Lin",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03829v1",
+        "paper_title": "NE-PADD: Leveraging Named Entity Knowledge for Robust Partial Audio Deepfake Detection via Attention Aggregation",
+        "filename": "2509.03829v1.pdf",
+        "summary": "Different from traditional sentence-level audio deepfake detection (ADD),\npartial audio deepfake detection (PADD) requires frame-level positioning of the\nlocation of fake speech. While some progress h",
+        "url": "http://arxiv.org/pdf/2509.03829v1",
+        "authors": "Huhong Xian, Rui Liu, Berrak Sisman, Haizhou Li",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03809v1",
+        "paper_title": "Align-then-Slide: A complete evaluation framework for Ultra-Long Document-Level Machine Translation",
+        "filename": "2509.03809v1.pdf",
+        "summary": "Large language models (LLMs) have ushered in a new era for document-level\nmachine translation (\\textit{doc}-mt), yet their whole-document outputs\nchallenge existing evaluation methods that assume sent",
+        "url": "http://arxiv.org/pdf/2509.03809v1",
+        "authors": "Jiaxin Guo, Daimeng Wei, Yuanchang Luo, Xiaoyu Chen, Zhanglin Wu, Huan Yang, Hengchao Shang, Zongyao Li, Zhiqiang Rao, Jinlong Yang, Hao Yang",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03805v1",
+        "paper_title": "Measuring How (Not Just Whether) VLMs Build Common Ground",
+        "filename": "2509.03805v1.pdf",
+        "summary": "Large vision language models (VLMs) increasingly claim reasoning skills, yet\ncurrent benchmarks evaluate them in single-turn or question answering settings.\nHowever, grounding is an interactive proces",
+        "url": "http://arxiv.org/pdf/2509.03805v1",
+        "authors": "Saki Imai, Mert İnan, Anthony Sicilia, Malihe Alikhani",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03791v1",
+        "paper_title": "SiLVERScore: Semantically-Aware Embeddings for Sign Language Generation Evaluation",
+        "filename": "2509.03791v1.pdf",
+        "summary": "Evaluating sign language generation is often done through back-translation,\nwhere generated signs are first recognized back to text and then compared to a\nreference using text-based metrics. However, ",
+        "url": "http://arxiv.org/pdf/2509.03791v1",
+        "authors": "Saki Imai, Mert İnan, Anthony Sicilia, Malihe Alikhani",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03787v1",
+        "paper_title": "Evaluating the Robustness of Retrieval-Augmented Generation to Adversarial Evidence in the Health Domain",
+        "filename": "2509.03787v1.pdf",
+        "summary": "Retrieval augmented generation (RAG) systems provide a method for factually\ngrounding the responses of a Large Language Model (LLM) by providing retrieved\nevidence, or context, as support. Guided by t",
+        "url": "http://arxiv.org/pdf/2509.03787v1",
+        "authors": "Shakiba Amirshahi, Amin Bigdeli, Charles L. A. Clarke, Amira Ghenai",
+        "publish_date": "2025-09-04"
+    },
+    {
+        "doc_id": "2509.03740v1",
+        "paper_title": "Singular Value Few-shot Adaptation of Vision-Language Models",
+        "filename": "2509.03740v1.pdf",
+        "summary": "Vision-language models (VLMs) like CLIP have shown impressive zero-shot and\nfew-shot learning capabilities across diverse applications. However, adapting\nthese models to new fine-grained domains remai",
+        "url": "http://arxiv.org/pdf/2509.03740v1",
+        "authors": "Taha Koleilat, Hassan Rivaz, Yiming Xiao",
+        "publish_date": "2025-09-03"
+    }
+]
